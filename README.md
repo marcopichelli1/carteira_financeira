@@ -11,7 +11,7 @@
 * [Bibliotecas](#bibliotecas)
 
 # Descrição do projeto
-> Este repositório é meu primeiro projeto Python de análise de dados financeiros de uma carteira de ativos. O objetivo deste projeto foi, a partir de uma base de dados contendo certos ativos financeiros e suas respectivas quantidades de cotas, encontrar e coletar as cotações atualizadas por meio de web-scrapping, atualizar a base de dados destes ativos, gerar gráficos comparativos de toda a carteira e desta com o índice Ibovespa e, então, enviar um e-mail com todas estas informações de maneira organizada e resumida.
+> Análise de dados financeiros de uma carteira de ativos. O objetivo deste projeto foi, a partir de uma base de dados contendo certos ativos financeiros e suas respectivas quantidades de cotas, encontrar e coletar as cotações atualizadas por meio de web-scrapping, atualizar a base de dados destes ativos, gerar gráficos comparativos de toda a carteira e desta com o índice Ibovespa e, então, enviar um e-mail com todas estas informações de maneira organizada e resumida.
 
 # Funcionalidades e Demonstração da Aplicação
 
